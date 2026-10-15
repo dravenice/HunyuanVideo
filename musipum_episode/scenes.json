@@ -1,0 +1,28 @@
+{
+  "project": "MusiPum Episode 01",
+  "title": "Bumi y Pía descubren el ritmo y la melodía",
+  "duration_seconds": 180,
+  "scene_count": 18,
+  "fps": 24,
+  "resolution": "1920x1080",
+  "scenes": [
+    {"index": 1, "time": "00:00-00:10", "speaker": "Bumi", "dialogue": "¡MusiPum! ¡La música vive en ti!"},
+    {"index": 2, "time": "00:10-00:20", "speaker": "Bumi", "dialogue": "¡Hola! Soy Bumi, y me encanta tocar mi tambor. ¡Pum, pum, pum!"},
+    {"index": 3, "time": "00:20-00:30", "speaker": "Pía", "dialogue": "Y yo soy Pía, el piano. ¡Hoy haremos música juntos!"},
+    {"index": 4, "time": "00:30-00:40", "speaker": "Bumi", "dialogue": "Yo hago esto. Escucha mis golpes de tambor."},
+    {"index": 5, "time": "00:40-00:50", "speaker": "Pía", "dialogue": "¡Eso se llama ritmo, Bumi! Es un patrón de golpes y silencios."},
+    {"index": 6, "time": "00:50-01:00", "speaker": "Pía", "dialogue": "¿Jugamos? Aplaude siguiendo cuatro golpes. ¡Prepara tus manos!"},
+    {"index": 7, "time": "01:00-01:10", "speaker": "Bumi", "dialogue": "Uno, dos, tres, cuatro. ¡Muy bien! Ese es el pulso."},
+    {"index": 8, "time": "01:10-01:20", "speaker": "Pía", "dialogue": "Ahora escucha mis teclas. Presta atención a las notas."},
+    {"index": 9, "time": "01:20-01:30", "speaker": "Pía", "dialogue": "¿Oíste que algunas notas suenan más agudas que otras?"},
+    {"index": 10, "time": "01:30-01:40", "speaker": "Pía", "dialogue": "Una melodía es una sucesión de notas. ¡Podemos tararearla!"},
+    {"index": 11, "time": "01:40-01:50", "speaker": "Pía", "dialogue": "Canta conmigo: la, la, la, la. ¡Qué bonita melodía!"},
+    {"index": 12, "time": "01:50-02:00", "speaker": "Bumi", "dialogue": "¡Ya sé! Yo puedo tocar el ritmo mientras tú haces la melodía."},
+    {"index": 13, "time": "02:00-02:10", "speaker": "Bumi", "dialogue": "Primero, escucha solo mi ritmo."},
+    {"index": 14, "time": "02:10-02:20", "speaker": "Pía", "dialogue": "Ahora, escucha solo mi melodía."},
+    {"index": 15, "time": "02:20-02:30", "speaker": "Bumi", "dialogue": "¡Y ahora suenan juntos! ¿Escuchas el tambor y el piano?"},
+    {"index": 16, "time": "02:30-02:40", "speaker": "Bumi", "dialogue": "¡Vamos a jugar! ¿Qué escuchas ahora, ritmo o melodía?"},
+    {"index": 17, "time": "02:40-02:50", "speaker": "Pía", "dialogue": "¡Era ritmo! Y ahora escucha estas notas. ¿Qué será?"},
+    {"index": 18, "time": "02:50-03:00", "speaker": "Bumi", "dialogue": "¡Melodía! El ritmo es el patrón, y la melodía son las notas. ¡Hasta pronto!"}
+  ]
+}
